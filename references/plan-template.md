@@ -1,4 +1,4 @@
-# The plan, one page (the 4-Week Plan: The lane and the plan, the 2 cells Sunday writes, and the block `renew` appends)
+# The plan, one page (the 4-Week Plan: beat 2, the 2 cells beat 4 writes, and the block `renew` appends at beat 5)
 
 `squad/90-day-plan.md`. One page per plan, seen not read. This order. Nothing else.
 
@@ -7,7 +7,7 @@ facts, the line to say out loud in bold, no paragraph over 40 words. It is a pla
 promise, and nothing in it predicts a result.
 
 Three strings are read back by name, so they are written exactly: the header line (the resume
-check reads its `confirmed` stamp and its renew date), the table's 4 columns (Sunday writes
+check reads its `confirmed` stamp and its renew date), the table's 4 columns (beat 4 writes
 Measure and Improve, `renew` reads them), and the `## PLAN N of 3 · <date>` heading (`renew`
 appends under it and never edits above it).
 
@@ -42,7 +42,7 @@ One line in bold under the header line, the same in every plan:
 ## `## The arithmetic` (the lane's count, as a small table)
 
 The hours are the system's, whole. Three rows, the lane's own. The rules behind the rows are in
-`SKILL.md`, The lane and the plan.
+`SKILL.md`, beat 2.
 
 OUTREACH, worked at 2 hours a day:
 
@@ -80,16 +80,16 @@ Then the table, 4 rows, 4 columns:
   appended block numbers its rows 1 to 4 again, under its own heading; the heading is what tells
   them apart.
 - Run is written when the plan is written, from the founder's own files, the asset and the send
-  or publish in one short line, a middle dot between them. The column rules are in `SKILL.md`, The lane and the plan.
+  or publish in one short line, a middle dot between them. The column rules are in `SKILL.md`, beat 2.
 - Measure and Improve are blank when the plan is written. Beat 4 writes them on the founder's
-  Sunday line; the forms they take are in `SKILL.md`, Sunday.
+  Sunday line; the forms they take are in `SKILL.md`, beat 4.
 
 ## Never in the file
 
 A daily task column, a day count, a 13th row, a count a lesson not yet opened defines (the list's
 size, a numbered touch, a touch's day), a scorecard or a pace line, a projected result.
 
-## The block `renew` appends (Renew, one per run)
+## The block `renew` appends (beat 5, one per run)
 
 Under `## PLAN 2 of 3 · <today's date>` (PLAN 3 of 3 next), in this order, and not one line
 above the heading is touched:
