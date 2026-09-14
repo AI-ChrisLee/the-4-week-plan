@@ -1,15 +1,16 @@
-# The plan, one page (the 4-Week Plan: beat 2, the 2 cells beat 4 writes, and the block `renew` appends at beat 5)
+# The plan, one page (the 4-Week Plan: The lane and the plan, Where you are, the 2 lines Sunday writes, and the block `renew` appends)
 
-`squad/90-day-plan.md`. One page per plan, seen not read. This order. Nothing else.
+`squad/4-week-plan.md`. One page per plan, seen not read. This order. Nothing else.
 
 A heading per section, one-line paragraphs, a table wherever there are 3 or more columns of
 facts, the line to say out loud in bold, no paragraph over 40 words. It is a plan, never a
 promise, and nothing in it predicts a result.
 
-Three strings are read back by name, so they are written exactly: the header line (the resume
-check reads its `confirmed` stamp and its renew date), the table's 4 columns (beat 4 writes
-Measure and Improve, `renew` reads them), and the `## PLAN N of 3 · <date>` heading (`renew`
-appends under it and never edits above it).
+These strings are read back by name, so they are written exactly: the `## PLAN ...` heading
+(`renew` appends under it and never edits above it), the header line (the resume check reads its
+`confirmed` stamp and its renew date), the cycle line, the where-you-are line (every run rewrites
+it in place), every `### Week N ...` heading, and the `Measure:` and `Improve:` lines under it
+(Sunday writes them, `renew` reads them).
 
 ## The heading and the header line (the first 2 lines of every block)
 
@@ -24,11 +25,38 @@ renew date is the Monday after week 4; the renewal itself is written on week 4's
 `confirmed <date>` is stamped at the yes and nowhere else; until then the slot reads
 `confirmed (not yet)`.
 
+The first 3 blocks are `PLAN 1 of 3`, `PLAN 2 of 3`, `PLAN 3 of 3`, the 90 days. After them the
+heading drops the count, `## PLAN 4 · <date>` and on, and the renewal keeps going. Nothing
+expires at plan 3.
+
 ## The cycle line (the third line of every block)
 
 One line in bold under the header line, the same in every plan:
 
 **Run what already wins. Measure the results. Improve what won.**
+
+## The where-you-are line (the fourth line of the newest block)
+
+One line under the cycle line, rewritten every run off today's date and never by hand:
+
+`WEEK 2 of 4 · Sep 14 to 20 · Sunday Sep 20 writes Measure and Improve`
+
+Before the yes it reads `WEEK 1 of 4 · starts <Monday's date>`. Past week 4's Sunday it reads
+`WEEK 4 of 4 ended <date> · renew`. It carries the week and its dates and nothing else: no day
+count, no percent, no pace.
+
+## `## Your business` (the top block, copied off `squad/business.md`)
+
+Three lines, the founder's own document word for word, rewritten only at a renewal:
+
+| Your business | |
+|---|---|
+| The sentence | THE SENTENCE, the one sentence, in bold |
+| Who it is for | WHO, line 1 |
+| The price | PRICE, line 1 |
+
+A line `squad/business.md` does not carry is left out of the table. Nothing here is summarised,
+shortened or invented, and no fourth row is added.
 
 ## `## The plan` (the header, as a 2-column table)
 
@@ -42,7 +70,7 @@ One line in bold under the header line, the same in every plan:
 ## `## The arithmetic` (the lane's count, as a small table)
 
 The hours are the system's, whole. Three rows, the lane's own. The rules behind the rows are in
-`SKILL.md`, beat 2.
+`SKILL.md`, The lane and the plan.
 
 OUTREACH, worked at 2 hours a day:
 
@@ -68,49 +96,70 @@ ADS, worked at 2 hours a day and a $100 daily number:
 | the making, Monday and Tuesday | 240 minutes on one concept, cut 3 ways |
 | from Wednesday | 120 minutes a day on the read and the leads; the ad set runs untouched |
 
-## `## The weeks` (the miss clause, then the table)
+## `## The weeks` (the miss clause, then a heading per week)
 
-One line above the table: `A missed week is written, never made up.`
+One line under the section heading: `A missed week is written, never made up.`
 
-Then the table, 4 rows, 4 columns:
+Then the 4 weeks, each one its own heading:
 
-`| Week | Run | Measure | Improve |`
+`### Week 1 · Sep 7 to 13`
 
-- Week is 1 to 4, with the dates, `1 · Sep 7 to 13`, counted from the header's week 1 date. An
-  appended block numbers its rows 1 to 4 again, under its own heading; the heading is what tells
-  them apart.
-- Run is written when the plan is written, from the founder's own files, the asset and the send
-  or publish in one short line, a middle dot between them. The column rules are in `SKILL.md`, beat 2.
-- Measure and Improve are blank when the plan is written. Beat 4 writes them on the founder's
-  Sunday line; the forms they take are in `SKILL.md`, beat 4.
+- The number is 1 to 4 and the dates are counted from the header's week 1 date. The week today
+  falls in ends `· this week`, and that marker moves with the where-you-are line. An appended
+  block numbers its weeks 1 to 4 again, under its own heading; the heading is what tells them
+  apart.
+- Under the heading, the week's Run as 3 to 5 boxes, `- [ ]`, one short line each, written when
+  the plan is written off the founder's own files. One finishable thing a box, read at a glance.
+  What goes in them is in `SKILL.md`, The lane and the plan.
+- One box is the week's send or publish, and it is the only box carrying a day word, `Wednesday`,
+  the day `## The plan` already fixes. A week that sends nothing says so in one box instead.
+- Then `Measure:` and `Improve:`, each its own line with a blank line between them so both stand
+  on the page. Both are empty when the plan is written. Sunday fills them off the lane's own log
+  where it holds the week's numbers; the forms they take are in `SKILL.md`, Sunday.
 
 ## Never in the file
 
-A daily task column, a day count, a 13th row, a count a lesson not yet opened defines (the list's
-size, a numbered touch, a touch's day), a scorecard or a pace line, a projected result.
+A box for a day, any day word in a box but `Wednesday`, a done count, a ratio, a percent, the
+boxes totalled anywhere, a day count, a 13th week, a count a lesson not yet opened defines (the
+list's size, a numbered touch, a touch's day), a scorecard or a pace line, a projected result, a
+second page.
 
-## The block `renew` appends (beat 5, one per run)
+## The block `renew` appends (Renew, one per run)
 
-Under `## PLAN 2 of 3 · <today's date>` (PLAN 3 of 3 next), in this order, and not one line
-above the heading is touched:
+Under `## PLAN 2 of 3 · <today's date>` (PLAN 3 of 3 next, then `## PLAN 4 · <date>` and on), in
+this order, and not one line above the heading is touched:
 
 1. the header line again, its plan number, the new hours and the lane, `confirmed (not yet)`
    until the yes
 2. the cycle line, the same bold line
-3. `## The plan`, the header table with the new block
-4. `## The arithmetic`, recomputed off the new hours
-5. the miss clause and the 4-row table, its weeks numbered 1 to 4 again and dated from the
-   Monday after the day the block is written, the header line's own rule. Week 1's Run carries
-   the last written Improve line as its brief: a named change becomes what week 1 makes and puts
-   out; a hold keeps the Run as the lane ran it. Measure and Improve are blank again.
+3. the where-you-are line, `WEEK 1 of 4 · starts <Monday's date>` until the block's first run
+   after the yes
+4. `## Your business`, copied fresh off `squad/business.md`
+5. `## The plan`, the header table with the new block
+6. `## The arithmetic`, recomputed off the new hours
+7. `## The weeks`, the miss clause and the 4 week headings, numbered 1 to 4 again and dated
+   from the Monday after the day the block is written, the header line's own rule. Week 1's
+   boxes carry the last written Improve line as their brief: a named change becomes what week 1
+   makes and puts out; a hold keeps the boxes as the lane ran them. Measure and Improve are
+   empty again.
 
-## An example (the shape, no member behind it: OUTREACH, 2 hours a day, written Sep 4)
+## An example (the shape, no member behind it: OUTREACH, 2 hours a day, written Sep 4, seen on the Tuesday of week 2)
 
 ## PLAN 1 of 3 · Sep 4
 
 PLAN 1 of 3 · LANE OUTREACH · hours a day 2 · week 1 Sep 7 · renew Oct 5 · confirmed Sep 4
 
 **Run what already wins. Measure the results. Improve what won.**
+
+WEEK 2 of 4 · Sep 14 to 20 · Sunday Sep 20 writes Measure and Improve
+
+## Your business
+
+| Your business | |
+|---|---|
+| The sentence | **I build the cold email system that books plumbers 3 jobs a week.** |
+| Who it is for | Plumbing and HVAC owners in one town, 2 to 10 trucks |
+| The price | $1,500 to build, $500 a month to run |
 
 ## The plan
 
@@ -133,14 +182,47 @@ PLAN 1 of 3 · LANE OUTREACH · hours a day 2 · week 1 Sep 7 · renew Oct 5 · 
 
 A missed week is written, never made up.
 
-| Week | Run | Measure | Improve |
-|---|---|---|---|
-| 1 · Sep 7 to 13 | The list, one trade in one town, and the 3 touches (o1, o2) · enters Wednesday, the first touch by your hand | | |
-| 2 · Sep 14 to 20 | The next list, the second town, the same 3 touches · enters Wednesday; batch 1's last touch lands | | |
-| 3 · Sep 21 to 27 | A list in a second trade, the first town · enters Wednesday | | |
-| 4 · Sep 28 to Oct 4 | The deck for the one name worth an hour (g7) · no new batch; batch 3's last touch lands | | |
+### Week 1 · Sep 7 to 13
+
+- [ ] The list, one trade in one town (o1)
+- [ ] The 3 touches, written once and reused (o2)
+- [ ] Wednesday: the list enters, the first touch by your hand
+
+Measure: 50 people contacted, 4 replies
+
+Improve: hold, the same email, a second town
+
+### Week 2 · Sep 14 to 20 · this week
+
+- [ ] The next list, the second town (o1)
+- [ ] Batch 1's last touch lands
+- [ ] Wednesday: batch 2 enters, the same 3 touches
+
+Measure:
+
+Improve:
+
+### Week 3 · Sep 21 to 27
+
+- [ ] A list in a second trade, the first town (o1)
+- [ ] Batch 2's last touch lands
+- [ ] Wednesday: batch 3 enters
+
+Measure:
+
+Improve:
+
+### Week 4 · Sep 28 to Oct 4
+
+- [ ] The deck for the one name worth an hour (g7)
+- [ ] Batch 3's last touch lands
+- [ ] No new batch this week
+
+Measure:
+
+Improve:
 
 ## Formatting
 
-Plain markdown. The header, the arithmetic and the weeks go in their tables, everything else in
-short lines. No em dashes. No fenced block.
+Plain markdown. The header, your business, the plan and the arithmetic go in their tables, the
+weeks in headings and boxes, everything else in short lines. No em dashes. No fenced block.
