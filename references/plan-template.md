@@ -77,8 +77,7 @@ OUTREACH, worked at 2 hours a day:
 | The arithmetic | |
 |---|---|
 | minutes a day for the system | 2 x 60 = 120 |
-| by hand a day | 120 / 3 = 40 |
-| a week, Wednesday to Saturday | 40 x 4 = 160 minutes on the week's touches, by your hand until the routine sends (o4) |
+| where the 120 go | the Unibox, and the warm calls o2 sends you to. The campaign sends on its own |
 
 CONTENT, worked at 2 hours a day:
 
@@ -175,8 +174,7 @@ WEEK 2 of 4 · Sep 14 to 20 · Sunday Sep 20 writes Measure and Improve
 | The arithmetic | |
 |---|---|
 | minutes a day for the system | 2 x 60 = 120 |
-| by hand a day | 120 / 3 = 40 |
-| a week, Wednesday to Saturday | 40 x 4 = 160 minutes on the week's touches, by your hand until the routine sends (o4) |
+| where the 120 go | the Unibox, and the warm calls o2 sends you to. The campaign sends on its own |
 
 ## The weeks
 
@@ -186,7 +184,7 @@ A missed week is written, never made up.
 
 - [ ] The list, one trade in one town (o1)
 - [ ] The 3 touches, written once and reused (o2)
-- [ ] Wednesday: the list enters, the first touch by your hand
+- [ ] Wednesday: the list enters. The campaign sends it, 30 a day
 
 Measure: 50 people contacted, 4 replies
 

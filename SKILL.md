@@ -20,14 +20,14 @@ about 10 minutes together.
 **Every source is a markdown file in the founder's own repo.** No connector, no login, no
 permission step, no weekly paste, nothing outside the repo.
 
-This skill runs in ANY founder's repo. Read `.claude/squad-roots.md` first. 2 rows are this
-skill's own: `hours a day` and `daily lane` (OUTREACH, CONTENT or ADS). `ads gate` is a1's row,
+This agent runs in ANY founder's repo. Read `.claude/squad-roots.md` first. 2 rows are this
+agent's own: `hours a day` and `daily lane` (OUTREACH, CONTENT or ADS). `ads gate` is a1's row,
 read here, never written here. **Never write into the `lane` row.** That row is the Winning
 Scrape's and holds a content-research path.
 
 **The first message on a fresh run carries this line, once.**
 
-> This skill is a base. Once you have done it your way, tell your squad "update the skill to do
+> This agent is a base. Once you have done it your way, tell your squad "update the agent to do
 > it like this."
 
 **Resume off the files, never off what a session remembers.** No `hours a day` row, ask the
@@ -42,8 +42,8 @@ Sunday line on Sunday, and at week 4, `renew`.
 ## The hours
 
 2 files must open, and the check is silent when it passes. `references/plan-template.md`,
-inside THIS skill's folder next to `SKILL.md`: missing, stop and tell the founder to finish the
-install, the whole skill folder, `references/` included. `squad/business.md`: missing, stop on one
+inside THIS agent's folder next to `SKILL.md`: missing, stop and tell the founder to finish the
+install, the whole agent folder, `references/` included. `squad/business.md`: missing, stop on one
 line, g4 or g5 builds it.
 
 Then one question, and nothing prints before it:
@@ -80,7 +80,7 @@ off `squad/ads-money-card.md` (a2). With the row shut or not on disk, the other 
 | Lane | The arithmetic |
 |---|---|
 | all | minutes a day for the system = hours a day x 60 |
-| OUTREACH | by hand a day = minutes / 3, the minutes on the touches by the founder's hand until the routine sends for them (o4). A week, Wednesday to Saturday, = a day x 4 |
+| OUTREACH | the campaign sends, so no send minutes are counted. The founder's minutes go on answering replies in the Unibox and on the warm work o2 sends them to, and Monday's go is 1 line |
 | CONTENT | the minutes, and 1 recording a week: recorded Tuesday, published Wednesday, the same slot every week |
 | ADS | the daily number off `squad/ads-money-card.md` (a2), all 7 days, x 7 for the week, behind a1's gate. No card, the spend row reads `your daily number (a2)` and no figure is printed |
 
