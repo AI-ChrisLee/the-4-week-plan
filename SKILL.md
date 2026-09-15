@@ -127,7 +127,7 @@ A confirmed block, any day but Sunday, and nothing else said. Read the file and 
 > WEEK 2 of 4 · Sep 14 to 20
 > Run: <the week's boxes, word for word, one a line>
 > Monday's brief: <the last written Improve line, word for word>
-> Sunday reads: <the lane's 2 numbers, named>
+> Sunday reads: <the lane's numbers, named>
 
 - The week is the one today's date falls in. Nothing written yet in any Improve line, the brief
   line reads `week 1, nothing to carry yet`.
@@ -138,7 +138,7 @@ A confirmed block, any day but Sunday, and nothing else said. Read the file and 
 
 ## Sunday
 
-The one thing written between the yes and the renewal. The founder says the week, the 2 numbers
+The one thing written between the yes and the renewal. The founder says the week, the numbers
 and one line for next week, however it arrives: a plain sentence, or the pasted `Put this in week
 N's Measure: ____ / Improve: ____`. With no week named,
 it is the week whose Sunday is today, or the last week that has ended.
@@ -153,11 +153,12 @@ it is the week whose Sunday is today, or the last week that has ended.
 
 Print what the file holds and ask for the yes instead of asking them to type it again. The
 founder's own words win over the file every time. No file, no row, or a row from another week: ask
-the week, the 2 numbers and the line, the way the founder always says them. Nothing is computed,
+the week, the numbers and the line, the way the founder always says them. Nothing is computed,
 nothing is guessed, and nothing outside the repo is opened.
 
-- Measure takes the 2 numbers, off finished things only: OUTREACH people contacted and
-  replies (o3); CONTENT 7-day views and asks (c5); ADS cost per lead and leads (a4). A number and
+- Measure takes the lane's numbers, off finished things only: OUTREACH people contacted,
+  replies and calls booked (o3); CONTENT the views, the asks and the money (c5); ADS cost per
+  lead and leads (a4). A number and
   `held until <when>` where the thing has not finished.
 - Improve takes their line as they said it, one named change or a hold, word for word, the log's
   improve cell included when they take that one. A bare hold is a whole line and is never sent
