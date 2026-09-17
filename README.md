@@ -1,14 +1,27 @@
-# The 4-Week Plan: install in 60 seconds
+# The 4-Week Plan · Agent 9
 
 This agent is a base. Once you have done it your way, tell your squad "update the agent to do it like this."
 
-Open Claude Code in your company folder and paste: **"Install this agent:
-https://github.com/AI-ChrisLee/the-4-week-plan. Clone the whole folder into .claude/skills as
-the-4-week-plan, without the .git folder."** The whole folder, `references/` included, or it stops
-on the way in. Then quit and reopen Claude Code, type `/`, and check that `the-4-week-plan` is on
-the list.
+It picks 1 lane for your next 4 weeks, cold email, YouTube or ads, and writes 1 page,
+`squad/4-week-plan.md`: your business at the top, then 4 weeks of short checklists, with Measure
+and Improve under each week. Open it every morning. On Sunday it reads the week.
 
-It writes one page, `squad/4-week-plan.md`: your business at the top, the week you are in, and 4 weeks, each one a short checklist you tick as you go. Open it first every week, and again every Sunday.
+**Install.** Installed with the one line on aichrislee.com/free (products/squad/install-line.md), then quit and reopen Claude Code.
 
-How to run it, step by step, is lesson G8, Your 4-Week Plan, in the Execution Squad classroom at
-aichrislee.com.
+**Bring** your offer page, `squad/business.md`. No page yet: run Agent 1 first, `/the-winning-offer`.
+
+## Run it
+
+- **"/the-4-week-plan"** It asks 1 thing, the hours a day you give the system beyond the hour on
+  people. It reads your lane off your files and prints the lane, the reason and 4 weeks of boxes.
+  Say yes, and the hour your block starts.
+- **"Where am I?"** Any day. This week's boxes, and Monday's brief: your last Improve line.
+- **"Read my week."** Sunday. It reads your lane's own numbers, asks calls booked and money cleared
+  this week (in the YouTube lane, also the 7-day views of 1 video it names), names 1 move, and
+  writes Measure and Improve into this week.
+- **"Renew my plan."** Week 4. It asks the hours again and writes the next 4 weeks under the last.
+
+## What it will not do
+
+Send, publish, launch, book or spend anything. Open an account. Guess a number, or guess where money
+came from. Pick 2 lanes.
